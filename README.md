@@ -1,3 +1,3 @@
-![Alt text](media/zkSync.jpg)
+![Alt text](assets/zkSync.jpg)
 
 # zkEVMBootcamp

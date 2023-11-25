@@ -240,7 +240,7 @@ fn homework(exercises: &[Exercise], verbose: bool, homework_number: String) -> n
     // Check if directory exists
     let b = Path::new(&homework_path).is_dir();   //.is_file();
     
-    // Filter against what's in the dirctory for number 1
+    // Filter against what's in the directory for number 1
     let paths = fs::read_dir(homework_path).expect("Can't find homework. Have you run the wrong homework number?");
 
     // Vec of things that are present in this homework
