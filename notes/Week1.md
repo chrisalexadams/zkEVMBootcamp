@@ -107,8 +107,8 @@
 
 #### Verification Method between
 
-1. Prover -> someone who is creating a proof for some information
-2. Verifier -> someone who verifies the proof with no information shared between the two
+1. Prover $\to$ someone who is creating a proof for some information
+2. Verifier $\to$ someone who verifies the proof with no information shared between the two
 
 - The information shared between a prover and a verifier is called a **witness**
 - The prover needs to show they know the witness accurately
